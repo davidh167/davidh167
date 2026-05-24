@@ -19,10 +19,10 @@ Building AI systems that reason, parse, and explain. Interested in NLP pipelines
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidhernandez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidhernandez&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidh167&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidh167&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=davidhernandez&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=davidh167&theme=tokyonight&hide_border=true)
 
 ## 🚀 Featured Projects
 
